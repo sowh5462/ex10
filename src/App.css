@@ -1,0 +1,96 @@
+.App {
+  width: 80%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.header img {
+  width: 100%;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.menu {
+  margin: 20px 0px;
+  border-bottom: 1px solid gray;
+}
+
+.menu a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  padding-right: 30px;
+  color: skyblue;
+}
+
+.menu a:hover {
+  font-weight: bold;
+}
+
+.login {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.login input {
+  width: 100%;
+  border: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+
+.login input:focus {
+  outline: none;
+  border-bottom: 3px solid gray;
+}
+
+.login button {
+  padding: 0px 20px;
+  border-radius: 5px;
+  font-family: 'Dongle';
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 40px;
+}
+
+.login a {
+  text-decoration: none;
+  color: black;
+  
+  font-size: 1.2rem;
+  float: right;
+}
+
+.regi {
+  margin-right: 40px;
+}
+
+.mypage {
+  width: 30%;
+  margin: auto;
+  
+}
+
+.mypage input {
+  width: 100%;
+  margin: 5px 0px 20px 0px;
+}
+
+.user {
+  overflow: hidden;
+}
+
+.photo {
+  float: left;
+}
+
+.info {
+  float: left;
+}
